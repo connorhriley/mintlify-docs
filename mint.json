@@ -17,14 +17,14 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Arcticel.com",
+      "url": "Arcticel.com"
+    },  
+    {
+      "name": "Dashboard",
+      "url": "my.arcticel.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
